@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Inter Tight', sans-serif;
+}
+
+.login-bg-color {
+    background: #d5f0e0 !important;
+}
+
+.bg-yellow {
+    background: #ffff00;
+}
+
+.bg-four-cols{
+    background: #f5f7f9;
+}
+.bg-appstore {
+    background: #e7eaec;
+}
